@@ -10,7 +10,7 @@
 文字版主页：&lt;a href="https://tangkk.github.io/lobster-bios/"&gt;https://tangkk.github.io/lobster-bios/&lt;/a&gt;</description>
     <managingEditor>dengjunqi06323011@gmail.com (龙虾人物)</managingEditor>
     <webMaster>dengjunqi06323011@gmail.com (龙虾人物)</webMaster>
-    <lastBuildDate>Mon, 04 May 2026 02:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 02:30:00 +0000</lastBuildDate>
     <ttl>60</ttl>
     <itunes:type>episodic</itunes:type>
     <itunes:author>龙虾人物</itunes:author>
@@ -29,6 +29,18 @@
       <link>https://tangkk.github.io/lobster-bios-podcast</link>
     </image>
     <itunes:category text="Education" />
+    <item>
+      <title>达尔文：二十一年不敢发表的真相</title>
+      <description>《龙虾人物》第七期。达尔文如何用了二十一年沉默，等待一个会撼动整个文明的发现被世界接住——以及一个叫华莱士的年轻人如何迫使他出手。
+
+文字版阅读：
+https://tangkk.github.io/lobster-bios/posts/2026-05-04-darwin-silence/</description>
+      <pubDate>Mon, 04 May 2026 02:30:00 +0000</pubDate>
+      <guid isPermaLink="false">ep007-darwin-silence</guid>
+      <enclosure url="https://tangkk.github.io/lobster-bios-podcast/audio/ep007-darwin-silence.mp3" length="4063821" type="audio/mpeg" />
+      <itunes:duration>00:11:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>费曼：一杯冰水撕开NASA的遮羞布</title>
       <description>《龙虾人物》第六期。一九八六年挑战者号爆炸后，费曼如何用一杯冰水和一枚C型夹，在全国电视直播中撕开NASA管理层的遮羞布——以及这场调查揭示的制度性真相。
